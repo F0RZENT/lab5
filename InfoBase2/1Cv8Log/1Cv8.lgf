@@ -1,0 +1,27 @@
+﻿1CV8LOG(ver 2.0)
+4a2ba319-ccbc-47e6-9bbf-6aaa3215c41f
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-M1PA5JV",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,5748bb9a-eefb-4147-89c5-8e2ebe984d90,"",1},
+{5,af7f124e-c783-410d-9eec-605f2558a1a8,"",2},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.New",8},
+{5,5748bb9a-eefb-4147-89c5-8e2ebe984d90,"Справочник.Клиенты",1},
+{4,"_$Transaction$_.Commit",9},
+{5,af7f124e-c783-410d-9eec-605f2558a1a8,"Справочник.Экскурсии",2},
+{3,"BackgroundJob",3},
+{4,"_$Session$_.Finish",10},
+{5,e24802c0-ba9f-4f4c-b22d-91c5238c1996,"Документ.Бронь",3},
+{5,301325fc-8d00-4d74-b230-351f58441071,"Документ.ПосещениеЭкскурсии",4},
+{4,"_$Data$_.Post",11},
+{4,"_$InfoBase$_.DBConfigUpdateError",12}
